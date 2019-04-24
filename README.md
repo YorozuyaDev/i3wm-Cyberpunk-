@@ -1,4 +1,4 @@
-# i3wm-Cyberp
+# i3wm-Cyberpunk
 My dotfiles for cyberpunk theme for i3wm.
 ---
 ### Installation
